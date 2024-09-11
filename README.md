@@ -1,6 +1,10 @@
 
 
-https://github.com/user-attachments/assets/4503f46d-c6e8-4a63-97c2-7063d98959ac
+
+https://github.com/user-attachments/assets/4536ac26-2568-49f2-80b2-166ef032c3a3
+
+
+
 
 # **Exploring the Role of Knowledge Representation in AI**
 
