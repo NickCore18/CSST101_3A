@@ -67,7 +67,7 @@ Challenges Addressed by Virtual Assistants
 
 ![msedge_mjmXjGyZ26](https://github.com/user-attachments/assets/c1a94c06-fe04-45e2-87b5-556f89b6d6e8)
 
-
+A knowledge representation model for virtual assistants integrates key components like Natural Language Processing (NLP), knowledge graphs, and contextual awareness to understand and respond to user queries. NLP breaks down user inputs, identifying the intent (e.g., requesting weather information) and extracting relevant entities like "weather" and "today." The system then uses a knowledge graph, where nodes represent entities and edges represent relationships, to find relevant data (e.g., today’s weather). Contextual awareness allows the assistant to remember recent interactions, enabling accurate responses to follow-up questions, such as clarifying a restaurant's closing time.
 ---
 
 **Conclusion**
